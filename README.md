@@ -18,7 +18,7 @@
   made for fun
  made for fun
 ```
-[website](https://wiggle.sany.one)
+[website](https://often.github.io/wiggle/)
 
 ## license
 [0BSD](LICENSE)
